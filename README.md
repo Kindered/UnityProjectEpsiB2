@@ -8,5 +8,5 @@ Projet Mobile sous Unity à l'EPSI en Bachelor 2 année 2020
 - Installer git LFS (large file storage) pour gérer les gros fichiers : `git lfs install` 
 - [Configurer Unity pour LFS](https://thoughtbot.com/blog/how-to-git-with-unity#2-configure-unity-for-version-control) (Pour moi, les settings étaient déjà bons mais je vous conseille fortement de vérifier!) 
 
-/!\ Ne rien faire de plus que ce qui est ci-dessus
-/!\ C'est à dire qu'il ne rien push pour l'instant. Il faut que l'on se mette d'accord sur l'organisation des branches Git avant de commencer le projet et de faire le premier commit
+> **/!\ Ne rien faire de plus que ce qui est ci-dessus.**  
+> C'est à dire qu'il ne faut rien push pour l'instant. Il faut que l'on se mette d'accord sur l'organisation des branches Git avant de commencer le projet et de faire le premier commit
